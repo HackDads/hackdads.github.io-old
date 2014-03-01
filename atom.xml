@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://HackDads.github.io/atom.xml" rel="self"/>
   <link href="http://HackDads.github.io/"/>
-  <updated>2014-03-01T00:47:17-05:00</updated>
+  <updated>2014-03-01T01:06:36-05:00</updated>
   <id>http://HackDads.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hack Dads 20140301]]></title>
+    <link href="http://HackDads.github.io/blog/2014/03/01/hack-dads-20140301/"/>
+    <updated>2014-03-01T01:03:24-05:00</updated>
+    <id>http://HackDads.github.io/blog/2014/03/01/hack-dads-20140301</id>
+    <content type="html"><![CDATA[<p>We:</p>
+
+<ul>
+<li>ate</li>
+<li>drank</li>
+<li>hacked</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
